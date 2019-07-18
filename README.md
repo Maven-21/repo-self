@@ -1,0 +1,2 @@
+# repo-self
+all
